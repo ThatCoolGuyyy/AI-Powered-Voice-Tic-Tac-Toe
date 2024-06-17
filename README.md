@@ -2,6 +2,9 @@
 
 Welcome to the **Can You Beat Gemini? Tic Tac Toe** project! This is an interactive Tic-Tac-Toe game where you play against an AI opponent named Gemini(Gemini API). The AI is designed to challenge your strategic thinking and make your Tic-Tac-Toe games more interesting.
 
+## Demo
+
+
 ## Features
 
 - **AI-Powered Opponent:** The AI, powered by Gemini, makes strategic moves to offer a robust challenge.
